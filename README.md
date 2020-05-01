@@ -1,2 +1,37 @@
-# leet-code-30day-challenge
-This repository has the solved problems posted during the Leet Code 30 day challenge. April 1st to April 30th 2020.
+
+# LeetCode April 30 day challenge
+This repository has the solved problems posted during the [LeetCode]([https://leetcode.com/].(https://leetcode.com/)) 30 day challenge. April 1st to April 30th 2020.
+
+April Challenge - [https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/].(https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
+
+### Problems
+1. [Single Number](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/1.js)
+2. [Happy Number](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/2.js)
+3. [Maximum Subarray](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/3.js)
+4. [Move Zeroes](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/4.js)
+5. [Best Time to Buy and Sell Stock II](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/5.js)
+6. [Group Anagrams](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/6.js)
+7. [Counting Elements](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/7.js)
+8. [Middle of the LinkedList](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/8.js)
+9. [Backspace String Compare](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/9.js)
+10. [Min Stack](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/10.js)
+11. [Diameter of a Binary Tree](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/11.js)
+12. [Last Stone Weight](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/12.js)
+13. [Contiguous Array](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/13.js)
+14. [Perform String Shifts](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/14.js)
+15. [Product of Array Except Self](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/15.js)
+16. [Valid Parenthesis String](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/16.js)
+17. [Number of Islands](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/17.js)
+18. [Minimum Path Sum](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/18.js)
+19. [Search in a Rotated Sorted Array](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/19.js)
+20. [Construct a Binary Search Tree from Preorder Traversal](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/20.js)
+21. [Leftmost Column with at least a One](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/21.js)
+22. [Subarray Sum Equals K](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/22.js)
+23. [Bitwise AND of Numbers Range](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/23.js)
+24. [LRU Cache](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/24.js)
+25. [Jump Game](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/25.js)
+26. [Longest Common Subsequence](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/26.js)
+27. [Maximal Square](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/27.js)
+28. [First Unique Number](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/28.js)
+29. [Binary Tree Maximum Path Sum](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/29.js)
+30. [Check if a String is a valid sequence from Root to Leaves Path in a Binary Tree](https://github.com/arunkumars0807/leet-code-30day-challenge/blob/master/30.js) 
